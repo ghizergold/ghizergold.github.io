@@ -1,0 +1,16 @@
+{
+  "name": "Ghizer Gold",
+  "short_name": "Ghizer Gold",
+  "description": "Dry fruits, honey and shilajit from the Ghizer valley, Gilgit-Baltistan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F5F1E8",
+  "theme_color": "#F5F1E8",
+  "lang": "en-PK",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
